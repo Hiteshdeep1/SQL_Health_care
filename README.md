@@ -33,14 +33,14 @@ This project demonstrates how SQL can be used to transform healthcare data into 
 ```SQL
 Create table Health_care (
 
-        Full_Name	Varchar primary key,
-		    Age	int,
-			 Gender varchar,	
-			  BMI	float,
-			   Children	int,
-			    Smoking_Status	varchar,
-				 Location	varchar,
-				  Insurance_Price int
+ Full_Name	Varchar primary key,
+  Age	int,
+   Gender varchar,	
+    BMI	float,
+     Children	int,
+      Smoking_Status	varchar,
+       Location	varchar,
+        Insurance_Price int
 
 );
 ```
